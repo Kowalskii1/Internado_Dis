@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|c:\\users\\acer\\downloads\\internado_dis\\internado\\internado\\hospital\\reporthospital.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\hospital\\reporthospital.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\hospital\\reporthospital.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\hospital\\reporthospital.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3375FB92-1733-4566-A27F-6B3FB414C539}|DaoInternado\\DaoInternado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\daointernado\\implementation\\hospitalimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3375FB92-1733-4566-A27F-6B3FB414C539}|DaoInternado\\DaoInternado.csproj|solutionrelative:daointernado\\implementation\\hospitalimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3375FB92-1733-4566-A27F-6B3FB414C539}|DaoInternado\\DaoInternado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\daointernado\\implementation\\baseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3375FB92-1733-4566-A27F-6B3FB414C539}|DaoInternado\\DaoInternado.csproj|solutionrelative:daointernado\\implementation\\baseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3375FB92-1733-4566-A27F-6B3FB414C539}|DaoInternado\\DaoInternado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\daointernado\\implementation\\taskstudentimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3375FB92-1733-4566-A27F-6B3FB414C539}|DaoInternado\\DaoInternado.csproj|solutionrelative:daointernado\\implementation\\taskstudentimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\students\\viewstatusstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\students\\viewstatusstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\doctorpage\\doctorpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\doctorpage\\doctorpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\students\\webstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\students\\webstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\hospital\\indexhospital.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\hospital\\indexhospital.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\doctor\\webdoctor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\doctor\\webdoctor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\doctor\\webdoctor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\doctor\\webdoctor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\studentpage\\studentpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\studentpage\\studentpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\studentpage\\studentpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\studentpage\\studentpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\studentpage\\completedtasks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\studentpage\\completedtasks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\doctorpage\\taskdelete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\doctorpage\\taskdelete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\doctorpage\\doctortaskdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\doctorpage\\doctortaskdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\doctorpage\\doctorpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\doctorpage\\doctorpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\doctorpage\\doctorassingtask.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\doctorpage\\doctorassingtask.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\reporte\\reportdoctor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\reporte\\reportdoctor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\reporte\\reportstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\reporte\\reportstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\studentpage\\completedtasks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\studentpage\\completedtasks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\studentpage\\studentpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\studentpage\\studentpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\students\\deletestudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\students\\deletestudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\students\\editstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\students\\editstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\internado\\hospital\\createhospital.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855644D3-2C43-4C0C-B29A-94ECB0767D48}|Internado\\Internado.csproj|solutionrelative:internado\\hospital\\createhospital.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HospitalImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\DaoInternado\\Implementation\\HospitalImpl.cs",
+              "RelativeDocumentMoniker": "DaoInternado\\Implementation\\HospitalImpl.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\DaoInternado\\Implementation\\HospitalImpl.cs",
+              "RelativeToolTip": "DaoInternado\\Implementation\\HospitalImpl.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAiwNIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:03:41.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportHospital.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Hospital\\ReportHospital.aspx.cs",
+              "RelativeDocumentMoniker": "Internado\\Hospital\\ReportHospital.aspx.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Hospital\\ReportHospital.aspx.cs",
+              "RelativeToolTip": "Internado\\Hospital\\ReportHospital.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:03:41.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportHospital.aspx",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Hospital\\ReportHospital.aspx",
+              "RelativeDocumentMoniker": "Internado\\Hospital\\ReportHospital.aspx",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Hospital\\ReportHospital.aspx",
+              "RelativeToolTip": "Internado\\Hospital\\ReportHospital.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-05-15T22:03:41.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskStudentImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\DaoInternado\\Implementation\\TaskStudentImpl.cs",
+              "RelativeDocumentMoniker": "DaoInternado\\Implementation\\TaskStudentImpl.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\DaoInternado\\Implementation\\TaskStudentImpl.cs",
+              "RelativeToolTip": "DaoInternado\\Implementation\\TaskStudentImpl.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:03:41.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IndexHospital.aspx",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Hospital\\IndexHospital.aspx",
+              "RelativeDocumentMoniker": "Internado\\Hospital\\IndexHospital.aspx",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Hospital\\IndexHospital.aspx",
+              "RelativeToolTip": "Internado\\Hospital\\IndexHospital.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-05-15T22:03:41.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\DoctorPage\\DoctorPage.aspx",
+              "RelativeDocumentMoniker": "Internado\\DoctorPage\\DoctorPage.aspx",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\DoctorPage\\DoctorPage.aspx",
+              "RelativeToolTip": "Internado\\DoctorPage\\DoctorPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-05-15T22:03:41.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Default.aspx",
+              "RelativeDocumentMoniker": "Internado\\Default.aspx",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Default.aspx",
+              "RelativeToolTip": "Internado\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-05-15T22:03:41.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebDoctor.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Doctor\\WebDoctor.aspx.cs",
+              "RelativeDocumentMoniker": "Internado\\Doctor\\WebDoctor.aspx.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Doctor\\WebDoctor.aspx.cs",
+              "RelativeToolTip": "Internado\\Doctor\\WebDoctor.aspx.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-15T22:03:41.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\DaoInternado\\Implementation\\BaseImpl.cs",
+              "RelativeDocumentMoniker": "DaoInternado\\Implementation\\BaseImpl.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\DaoInternado\\Implementation\\BaseImpl.cs",
+              "RelativeToolTip": "DaoInternado\\Implementation\\BaseImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:03:41.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewStatusStudent.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Students\\ViewStatusStudent.aspx.cs",
+              "RelativeDocumentMoniker": "Internado\\Students\\ViewStatusStudent.aspx.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Students\\ViewStatusStudent.aspx.cs",
+              "RelativeToolTip": "Internado\\Students\\ViewStatusStudent.aspx.cs",
+              "ViewState": "AQIAACABAAAAAAAAAAAAAD0AAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-15T22:03:41.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebStudent.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Students\\WebStudent.aspx.cs",
+              "RelativeDocumentMoniker": "Internado\\Students\\WebStudent.aspx.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Students\\WebStudent.aspx.cs",
+              "RelativeToolTip": "Internado\\Students\\WebStudent.aspx.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAwDAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-15T22:03:41.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DoctorPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\DoctorPage\\DoctorPage.aspx.cs",
+              "RelativeDocumentMoniker": "Internado\\DoctorPage\\DoctorPage.aspx.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\DoctorPage\\DoctorPage.aspx.cs",
+              "RelativeToolTip": "Internado\\DoctorPage\\DoctorPage.aspx.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD4AAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-15T22:03:41.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentPage.aspx",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\StudentPage\\StudentPage.aspx",
+              "RelativeDocumentMoniker": "Internado\\StudentPage\\StudentPage.aspx",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\StudentPage\\StudentPage.aspx",
+              "RelativeToolTip": "Internado\\StudentPage\\StudentPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-05-15T22:03:41.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CompletedTasks.aspx",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\StudentPage\\CompletedTasks.aspx",
+              "RelativeDocumentMoniker": "Internado\\StudentPage\\CompletedTasks.aspx",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\StudentPage\\CompletedTasks.aspx",
+              "RelativeToolTip": "Internado\\StudentPage\\CompletedTasks.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-05-15T22:03:41.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebDoctor.aspx",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Doctor\\WebDoctor.aspx",
+              "RelativeDocumentMoniker": "Internado\\Doctor\\WebDoctor.aspx",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Doctor\\WebDoctor.aspx",
+              "RelativeToolTip": "Internado\\Doctor\\WebDoctor.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
+              "WhenOpened": "2024-05-15T22:03:41.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DoctorTaskDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\DoctorPage\\DoctorTaskDetails.aspx.cs",
+              "RelativeDocumentMoniker": "Internado\\DoctorPage\\DoctorTaskDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\DoctorPage\\DoctorTaskDetails.aspx.cs",
+              "RelativeToolTip": "Internado\\DoctorPage\\DoctorTaskDetails.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-15T22:03:41.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskDelete.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\DoctorPage\\TaskDelete.aspx.cs",
+              "RelativeDocumentMoniker": "Internado\\DoctorPage\\TaskDelete.aspx.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\DoctorPage\\TaskDelete.aspx.cs",
+              "RelativeToolTip": "Internado\\DoctorPage\\TaskDelete.aspx.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAADwv3cAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-15T22:03:41.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\StudentPage\\StudentPage.aspx.cs",
+              "RelativeDocumentMoniker": "Internado\\StudentPage\\StudentPage.aspx.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\StudentPage\\StudentPage.aspx.cs",
+              "RelativeToolTip": "Internado\\StudentPage\\StudentPage.aspx.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-15T22:03:41.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DoctorAssingTask.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\DoctorPage\\DoctorAssingTask.aspx.cs",
+              "RelativeDocumentMoniker": "Internado\\DoctorPage\\DoctorAssingTask.aspx.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\DoctorPage\\DoctorAssingTask.aspx.cs",
+              "RelativeToolTip": "Internado\\DoctorPage\\DoctorAssingTask.aspx.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-15T22:03:41.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReportDoctor.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Reporte\\ReportDoctor.aspx.cs",
+              "RelativeDocumentMoniker": "Internado\\Reporte\\ReportDoctor.aspx.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Reporte\\ReportDoctor.aspx.cs",
+              "RelativeToolTip": "Internado\\Reporte\\ReportDoctor.aspx.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAkwFoAAACaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-15T22:03:41.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CompletedTasks.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\StudentPage\\CompletedTasks.aspx.cs",
+              "RelativeDocumentMoniker": "Internado\\StudentPage\\CompletedTasks.aspx.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\StudentPage\\CompletedTasks.aspx.cs",
+              "RelativeToolTip": "Internado\\StudentPage\\CompletedTasks.aspx.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-15T22:03:41.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReportStudent.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Reporte\\ReportStudent.aspx.cs",
+              "RelativeDocumentMoniker": "Internado\\Reporte\\ReportStudent.aspx.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Reporte\\ReportStudent.aspx.cs",
+              "RelativeToolTip": "Internado\\Reporte\\ReportStudent.aspx.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-15T22:03:41.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentPage.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\StudentPage\\StudentPage.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Internado\\StudentPage\\StudentPage.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\StudentPage\\StudentPage.aspx.designer.cs",
+              "RelativeToolTip": "Internado\\StudentPage\\StudentPage.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-15T22:03:41.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditStudent.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Students\\EditStudent.aspx.cs",
+              "RelativeDocumentMoniker": "Internado\\Students\\EditStudent.aspx.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Students\\EditStudent.aspx.cs",
+              "RelativeToolTip": "Internado\\Students\\EditStudent.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAJQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-15T22:03:41.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeleteStudent.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Students\\DeleteStudent.aspx.cs",
+              "RelativeDocumentMoniker": "Internado\\Students\\DeleteStudent.aspx.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Students\\DeleteStudent.aspx.cs",
+              "RelativeToolTip": "Internado\\Students\\DeleteStudent.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-15T22:03:41.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateHospital.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Hospital\\CreateHospital.aspx.cs",
+              "RelativeDocumentMoniker": "Internado\\Hospital\\CreateHospital.aspx.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\Internado_Dis\\Internado\\Internado\\Hospital\\CreateHospital.aspx.cs",
+              "RelativeToolTip": "Internado\\Hospital\\CreateHospital.aspx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-05-15T22:03:41.704Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
