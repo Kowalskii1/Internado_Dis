@@ -13,6 +13,10 @@ namespace Internado.StudentPage
     {
         TaskStudentImpl implTask;
         TaskStudent T;
+
+        StudentImpl implStudent;
+
+
         string type;
         int id;
         protected void Page_Load(object sender, EventArgs e)
@@ -40,12 +44,18 @@ namespace Internado.StudentPage
         protected void btnDone_Click(object sender, EventArgs e)
         {
             id = byte.Parse(Request.QueryString["id"]);
+            //int sessionId = Session.SessionID;
+            int idPerson = (int)Session["idPerson"];
+
+
             if (id > 0)
             {
                 try
                 {
                     implTask = new TaskStudentImpl();
+                    implStudent = new StudentImpl();
                     int n = implTask.UpdateTask(id,fileImage.FileBytes,fileAttachment.FileBytes);
+                    int donw = implStudent.isfreeDown(idPerson);
                     Response.Redirect("StudentPage.aspx");
                 }
                 catch (Exception ex)

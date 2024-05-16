@@ -14,6 +14,8 @@ namespace Internado.StudentPage
     {
         TaskStudentImpl implTask;
         TaskStudent T;
+
+        StudentImpl Impstudent;
         string type;
         int id;
         protected void Page_Load(object sender, EventArgs e)
@@ -115,12 +117,15 @@ namespace Internado.StudentPage
         protected void btnRechazar_Click(object sender, EventArgs e)
         {
             id = byte.Parse(Request.QueryString["id"]);
+            int idPerson = (int)Session["idPerson"];
             if (id > 0)
             {
                 try
                 {
                     implTask = new TaskStudentImpl();
+                    Impstudent = new StudentImpl();
                     int n = implTask.DeleteTask(id);
+                    int donw = Impstudent.isfreeDown(idPerson);
                     Response.Redirect("StudentPage.aspx");
                 }
                 catch (Exception ex)

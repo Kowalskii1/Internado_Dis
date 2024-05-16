@@ -50,6 +50,10 @@ namespace Internado.DoctorPage
 
                 int n = taskStudentImpl.Insert(taskStudent);
                 
+
+                implStudent = new StudentImpl();
+                int up = implStudent.isfreeUp(selectStudent);
+                
                 
                 //taskStudentImpl.Send(selectStudent, txtAssingDate.Text, txtAssingDateExpired.Text);
                 

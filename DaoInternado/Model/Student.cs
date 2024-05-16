@@ -13,6 +13,7 @@ namespace DaoInternado.Model
         public string Speciality { get; set; }
         public int DoctorID { get; set; }
         public int HospitalID { get; set; }
+        //public byte isfree {  get; set; }
         #endregion
 
         #region Constructor

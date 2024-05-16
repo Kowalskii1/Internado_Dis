@@ -17,6 +17,48 @@ namespace DaoInternado.Implementation
             throw new NotImplementedException();
         }
 
+        //Actualiza para nueva tarea asignado
+        public int isfreeUp(int id)
+        {
+            query = @"UPDATE Student
+                    SET isfree = 1
+                    WHERE idStudent = @id";
+
+            SqlCommand cmd = CreateBasicCommand(query);
+
+            cmd.Parameters.AddWithValue("id", id);
+
+            try
+            {
+                return ExecuteBasicCommand(cmd);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        //Actualiza para  tarea terminada
+        public int isfreeDown(int id)
+        {
+            query = @"UPDATE Student
+                    SET isfree = 0
+                    WHERE idStudent = @id";
+
+            SqlCommand cmd = CreateBasicCommand(query);
+
+            cmd.Parameters.AddWithValue("id", id);
+
+            try
+            {
+                return ExecuteBasicCommand(cmd);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
         public int Delete(int t)
         {
             query = @"UPDATE Person SET status=0,lastUpdate=CURRENT_TIMESTAMP
@@ -39,10 +81,17 @@ namespace DaoInternado.Implementation
 
         public DataTable ComboBoxStudent()
         {
-            query = @"  SELECT S.idStudent AS id, P.name AS name
-                        FROM Student S
-                        INNER JOIN Person P ON S.idStudent = P.idPerson
-                        WHERE P.status=1";
+            //query = @"  SELECT S.idStudent AS id, P.name AS name
+            //            FROM Student S
+            //            INNER JOIN Person P ON S.idStudent = P.idPerson
+            //            WHERE P.status=1";
+
+            //actualizado
+            query = @"SELECT S.idStudent AS id, P.name AS name
+                    FROM Student S
+                    INNER JOIN Person P ON S.idStudent = P.idPerson
+                    WHERE P.status=1 and S.isfree = 0";
+
             SqlCommand command = CreateBasicCommand(query);
             try
             {
@@ -89,12 +138,13 @@ namespace DaoInternado.Implementation
 
         public int Insert(Student t)
         {
-           
+            byte isfree = 0;
+
             query = @"INSERT INTO Person(name,lastName,secondLastName,phone,email)
             VALUES(@name,@lastName,@secondLastName,@phone,@email)";
 
-            string query2 = @"INSERT INTO Student(idStudent,speciality,idDoctor,idHospital)
-	                Values(@idStudent,@speciality,@doctorID,@hospitalID)";
+            string query2 = @"INSERT INTO Student(idStudent,speciality,idDoctor,idHospital, isfree)
+	                Values(@idStudent,@speciality,@doctorID,@hospitalID, @isfree)";
 
             List<SqlCommand> commands = CreateBasicCommand2(query, query2);
 
@@ -110,6 +160,7 @@ namespace DaoInternado.Implementation
             commands[1].Parameters.AddWithValue("@speciality", t.Speciality);
             commands[1].Parameters.AddWithValue("@doctorID", t.DoctorID);
             commands[1].Parameters.AddWithValue("@hospitalID", t.HospitalID);
+            commands[1].Parameters.AddWithValue("@isfree", isfree);
 
             
 

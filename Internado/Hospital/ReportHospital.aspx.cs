@@ -30,7 +30,7 @@ namespace Internado.Hospital
             }
             else
             {
-                //Response.Redirect("WebLogin.aspx");  
+                //Response.Redirect("WebLogin.aspx"); 
             }
             ShowReport();
             ShowHospital();
